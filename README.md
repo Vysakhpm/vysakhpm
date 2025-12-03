@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vysakh P M</h1>
-<h3 align="center">A passionate frontend Data Analyst India</h3>
+<h3 align="center">A passionate  Data Analyst India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vysakhpm&label=Profile%20views&color=0e75b6&style=flat" alt="vysakhpm" /> </p>
