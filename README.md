@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vysakh P M</h1>
+<img width="1254" height="1254" alt="ChatGPT Image May 2, 2026, 12_16_24 PM" src="https://github.com/user-attachments/assets/d148c426-79aa-4275-b8f4-ed3c2ce64401" />
+
 <h3 align="center">Python Full Stack Developer | Django | React | AWS</h3>
-<img width="4000" height="6000" alt="pexels-usehex-9553909" src="https://github.com/user-attachments/assets/3f2cf3ef-0ba7-4806-9857-5c1fed4e664e" />
+
 
 
 ---
