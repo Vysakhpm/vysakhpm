@@ -17,17 +17,36 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python | JavaScript | SQL | HTML | CSS  
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+</td>
+</tr>
 
-**Frameworks & Libraries**
-Django | Django REST Framework | React | Next.js  
+<tr>
+<td><b>Frameworks</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=django,react,nextjs" />
+</td>
+</tr>
 
-**Cloud & DevOps**
-AWS (Lambda, ECS, S3, RDS) | Docker | CI/CD  
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,docker" />
+</td>
+</tr>
 
-**Databases**
-PostgreSQL | MySQL | MongoDB  
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</td>
+</tr>
+</table>
+
 
 ---
 
