@@ -1,33 +1,55 @@
 <h1 align="center">Hi 👋, I'm Vysakh P M</h1>
-<h3 align="center">A passionate  Data Analyst India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
+<h3 align="center">Python Full Stack Developer | Django | React | AWS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vysakhpm&label=Profile%20views&color=0e75b6&style=flat" alt="vysakhpm" /> </p>
+---
 
-- 🌱 I’m currently learning **Power BI,Pandas,Numpy**
+## 🚀 About Me
+- 💻 Python Full Stack Developer with experience in building scalable web applications
+- ⚡ Skilled in Django, REST APIs, React, and AWS cloud architecture
+- 📊 Experience in data-driven applications and AI/ML integration
+- 🎯 Actively seeking Software Developer / Full Stack Developer roles
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vysakhpm](https://github.com/Vysakhpm)
+---
 
-- 💬 Ask me about **Data cleaning, Insights generation**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **vysakpm4@gmail.com**
+**Languages**
+Python | JavaScript | SQL | HTML | CSS  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o0XkxznE9GipWmObs53pTGGhIJAj5H6H/view?usp=drivesdk](https://drive.google.com/file/d/1o0XkxznE9GipWmObs53pTGGhIJAj5H6H/view?usp=drivesdk)
+**Frameworks & Libraries**
+Django | Django REST Framework | React | Next.js  
 
-- ⚡ Fun fact **I think i am hungry to learn**
+**Cloud & DevOps**
+AWS (Lambda, ECS, S3, RDS) | Docker | CI/CD  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vysakh-mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vysakh-mahesh" height="30" width="40" /></a>
-<a href="https://instagram.com/vyy_shak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vyy_shak" height="30" width="40" /></a>
-</p>
+**Databases**
+PostgreSQL | MySQL | MongoDB  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vysakhpm&show_icons=true&locale=en&layout=compact" alt="vysakhpm" /></p>
+## 📌 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vysakhpm&show_icons=true&locale=en" alt="vysakhpm" /></p>
+### 🔹 Plagiarism Detection System
+- Built using Django + Next.js
+- Implemented TF-IDF & K-Gram algorithms
+- Achieved 95% accuracy
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vysakhpm&" alt="vysakhpm" /></p>
+### 🔹 AI Exam Proctoring System
+- YOLOv8 for video monitoring
+- YAMNet for audio anomaly detection
+- Real-time processing system
 
+### 🔹 News Sentiment Dashboard
+- AWS serverless pipeline
+- NLP sentiment analysis
+- Real-time analytics dashboard
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vysakh-mahesh
+- GitHub: https://github.com/Vysakhpm
+- Portfolio: https://vysakhpm.github.io/My_portfolio/
+- Email: vysakpm4@gmail.com
+
+---
